@@ -1,0 +1,594 @@
+[
+    {
+        "question": "In golf, what is one stroke over par called?",
+        "A": "eagle",
+        "B": "bogey",
+        "C": "dormy",
+        "D": "birdie",
+        "answer": "B"
+    },
+    {
+        "question": "In Greek mythology, what is the name of Zeus' father?",
+        "A": "Apollo",
+        "B": "Cronus",
+        "C": "Prometheus",
+        "D": "Hercules",
+        "answer": "B"
+    },
+    {
+        "question": "In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?",
+        "A": "triple action",
+        "B": "trifecta",
+        "C": "exacta",
+        "D": "triple crown",
+        "answer": "B"
+    },
+    {
+        "question": "In ice hockey, which of the following is not a penalty?",
+        "A": "hooking",
+        "B": "charging",
+        "C": "carving",
+        "D": "butt-ending",
+        "answer": "C"
+    },
+    {
+        "question": "In Mister Rogers' theme song, what does he ask you to be?",
+        "A": "his cook",
+        "B": "his student",
+        "C": "his neighbor",
+        "D": "all you can be",
+        "answer": "C"
+    },
+    {
+        "question": "In mobster lingo, if you 'sing like a canary' what are you doing?",
+        "A": "impersonating Sinatra",
+        "B": "talking to the cops",
+        "C": "killing an enemy",
+        "D": "betting on horses",
+        "answer": "B"
+    },
+    {
+        "question": "In soccer, which player is allowed to use his or her hands in the field of play?",
+        "A": "midfielder",
+        "B": "center",
+        "C": "sweeper",
+        "D": "goalkeeper",
+        "answer": "D"
+    },
+    {
+        "question": "In the 1960s 'Batman' TV series, who was not a guest villain?",
+        "A": "The Minstrel",
+        "B": "The Archer",
+        "C": "The Bookworm",
+        "D": "The Squeegee Guy",
+        "answer": "D"
+    },
+    {
+        "question": "In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
+        "A": "Statue of Liberty",
+        "B": "Empire State Building",
+        "C": "World Trade Center",
+        "D": "Chrysler Building",
+        "answer": "C"
+    },
+    {
+        "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+        "A": "talking car",
+        "B": "winged horse",
+        "C": "magic carpet",
+        "D": "hot air balloon",
+        "answer": "C"
+    },
+    {
+        "question": "In the Arthurian legend, who is married to Guinevere?",
+        "A": "Merlin",
+        "B": "King Arthur",
+        "C": "Lancelot",
+        "D": "Camelot",
+        "answer": "B"
+    },
+    {
+        "question": "In the card game blackjack, how much are a queen and a king worth-together?",
+        "A": "11",
+        "B": "15",
+        "C": "20",
+        "D": "21",
+        "answer": "C"
+    },
+    {
+        "question": "In the children's game, what color is 'Rover'?",
+        "A": "green",
+        "B": "black",
+        "C": "red",
+        "D": "blue",
+        "answer": "C"
+    },
+    {
+        "question": "In the classic song 'Take Me Out to the Ballgame' for whom do we 'root root root'?",
+        "A": "the umpire",
+        "B": "the home team",
+        "C": "the bat boy",
+        "D": "Mighty Casey",
+        "answer": "B"
+    },
+    {
+        "question": "In the comic strip 'Peanuts' what is Schroeder known for doing?",
+        "A": "Dancing",
+        "B": "playing football",
+        "C": "playing the piano",
+        "D": "Flying an imaginary plane",
+        "answer": "C"
+    },
+    {
+        "question": "In the famous ballet 'The Nutcracker' who does the hero defeat?",
+        "A": "Sugar Plum Fairy",
+        "B": "Rat King",
+        "C": "Snow Queen",
+        "D": "Marzipan",
+        "answer": "B"
+    },
+    {
+        "question": "In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?",
+        "A": "Stormfield",
+        "B": "Fog City",
+        "C": "Mudville",
+        "D": "Waterlog",
+        "answer": "C"
+    },
+    {
+        "question": "In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
+        "A": "peace symbol",
+        "B": "American flag",
+        "C": "two white doves",
+        "D": "Harley-Davidson logo",
+        "answer": "B"
+    },
+    {
+        "question": "In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?",
+        "A": "Jude Law",
+        "B": "Matt Damon",
+        "C": "Dustin Hoffman",
+        "D": "Ben Affleck",
+        "answer": "B"
+    },
+    {
+        "question": "In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?",
+        "A": "a lime",
+        "B": "a shaker of salt",
+        "C": "his car keys",
+        "D": "the bartender",
+        "answer": "B"
+    },
+    {
+        "question": "In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?",
+        "A": "Little Buddy",
+        "B": "Mini-Me",
+        "C": "Small Fry",
+        "D": "Dr. Evil Jr",
+        "answer": "B"
+    },
+    {
+        "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+        "A": "Woolie",
+        "B": "Boobie",
+        "C": "Wookie",
+        "D": "Klingon",
+        "answer": "C"
+    },
+    {
+        "question": "In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
+        "A": "Sancho Panza",
+        "B": "Passepartout",
+        "C": "Renfield",
+        "D": "Savoir Faire",
+        "answer": "B"
+    },
+    {
+        "question": "In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
+        "A": "Polly Finn",
+        "B": "Becky Thatcher",
+        "C": "Nancy Drew",
+        "D": "Emma Bovary",
+        "answer": "B"
+    },
+    {
+        "question": "In the original 'Get Smart' TV series, what is agent Maxwell Smart's code name?",
+        "A": "Agent 86",
+        "B": "Agent 99",
+        "C": "Larrabee",
+        "D": "The Chief",
+        "answer": "A"
+    },
+    {
+        "question": "In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?",
+        "A": "through outer space",
+        "B": "through a human body",
+        "C": "to the ocean floor",
+        "D": "to the center of the earth",
+        "answer": "B"
+    },
+    {
+        "question": "In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
+        "A": "a cow",
+        "B": "a hat",
+        "C": "a harp",
+        "D": "a goose",
+        "answer": "A"
+    },
+    {
+        "question": "In the television network abbreviation 'ABC' what does the 'A' stand for?",
+        "A": "Artistic",
+        "B": "Audio",
+        "C": "American",
+        "D": "Adult",
+        "answer": "C"
+    },
+    {
+        "question": "In the phrase 'Y2K' what does 'K' stand for?",
+        "A": "millennium",
+        "B": "computer code",
+        "C": "catastrophe",
+        "D": "thousand",
+        "answer": "D"
+    },
+    {
+        "question": "In the United States, what is the first day of spring?",
+        "A": "February 21",
+        "B": "March 21",
+        "C": "April 21",
+        "D": "May 21",
+        "answer": "B"
+    },
+    {
+        "question": "In traditional English puppet shows, who is married to the character Punch?",
+        "A": "Debbie",
+        "B": "Victoria",
+        "C": "Judy",
+        "D": "Barbara",
+        "answer": "C"
+    },
+    {
+        "question": "In what city is TV's 'The Mary Tyler Moore Show' set?",
+        "A": "Dallas",
+        "B": "Chicago",
+        "C": "New York",
+        "D": "Minneapolis",
+        "answer": "D"
+    },
+    {
+        "question": "In what city would you find people studying art and design at the Fashion Institute of Technology?",
+        "A": "Paris",
+        "B": "New York",
+        "C": "Los Angeles",
+        "D": "Melbourne",
+        "answer": "B"
+    },
+    {
+        "question": "In what country are police officers referred to as 'bobbies'?",
+        "A": "Israel",
+        "B": "Greece",
+        "C": "England",
+        "D": "France",
+        "answer": "C"
+    },
+    {
+        "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
+        "A": "United States",
+        "B": "Sweden",
+        "C": "Israel",
+        "D": "Turkey",
+        "answer": "B"
+    },
+    {
+        "question": "In what country did Pokemon originate?",
+        "A": "France",
+        "B": "Hungary",
+        "C": "Japan",
+        "D": "Canada",
+        "answer": "C"
+    },
+    {
+        "question": "In what decade did Israel become an independent state?",
+        "A": "1920s",
+        "B": "1940s",
+        "C": "1950s",
+        "D": "1960s",
+        "answer": "B"
+    },
+    {
+        "question": "In what decade was the Hula-Hoop invented?",
+        "A": "1890s",
+        "B": "1920s",
+        "C": "1950s",
+        "D": "1970s",
+        "answer": "C"
+    },
+    {
+        "question": "In what forest did Robin Hood live?",
+        "A": "Black Forest",
+        "B": "Petrified Forest",
+        "C": "Nottingham Forest",
+        "D": "Sherwood Forest",
+        "answer": "D"
+    },
+    {
+        "question": "In what restaurant can you order a Grand Slam breakfast?",
+        "A": "Denny's",
+        "B": "McDonald's",
+        "C": "Burger King",
+        "D": "Hardee's",
+        "answer": "A"
+    },
+    {
+        "question": "In what sport do athletes compete for the Walker Cup?",
+        "A": "cricket",
+        "B": "tennis",
+        "C": "squash",
+        "D": "golf",
+        "answer": "D"
+    },
+    {
+        "question": "In what sport do you find 'steel cage' matches?",
+        "A": "boxing",
+        "B": "fencing",
+        "C": "pro wrestling",
+        "D": "college basketball",
+        "answer": "C"
+    },
+    {
+        "question": "In what state is the 1999 movie 'Magnolia' set?",
+        "A": "California",
+        "B": "South Carolina",
+        "C": "Georgia",
+        "D": "Texas",
+        "answer": "A"
+    },
+    {
+        "question": "In what U.S. city can you find the Basketball Hall of Fame?",
+        "A": "Canton, Ohio",
+        "B": "Cooperstown, New York",
+        "C": "Springfield, Massachusetts",
+        "D": "Lawrence, Kansas",
+        "answer": "C"
+    },
+    {
+        "question": "In what year did the Great Depression begin?",
+        "A": "1884",
+        "B": "1929",
+        "C": "1953",
+        "D": "1975",
+        "answer": "B"
+    },
+    {
+        "question": "In what year did the United States last win an Olympic gold medal in men's ice hockey?",
+        "A": "1976",
+        "B": "1980",
+        "C": "1984",
+        "D": "1988",
+        "answer": "B"
+    },
+    {
+        "question": "In which of the following bands did Jimmy Page not play guitar?",
+        "A": "Bad Company",
+        "B": "The Firm",
+        "C": "Led Zeppelin",
+        "D": "The Yardbirds",
+        "answer": "A"
+    },
+    {
+        "question": "In which of these sports do competitors use a 'funny car'?",
+        "A": "supercross",
+        "B": "dogsledding",
+        "C": "gymnastics",
+        "D": "drag racing",
+        "answer": "D"
+    },
+    {
+        "question": "In what war did Joan of Arc fight?",
+        "A": "Hundred Years' War",
+        "B": "Franco-Prussian War",
+        "C": "French Revolution",
+        "D": "French and Indian War",
+        "answer": "A"
+    },
+    {
+        "question": "Including the bottom, how many sides are on a square-based pyramid?",
+        "A": "three",
+        "B": "four",
+        "C": "five",
+        "D": "six",
+        "answer": "C"
+    },
+    {
+        "question": "Into what body of water does the Rhone River flow?",
+        "A": "Atlantic Ocean",
+        "B": "Caspian Sea",
+        "C": "North Sea",
+        "D": "Mediterranean Sea",
+        "answer": "D"
+    },
+    {
+        "question": "John D. Rockefeller made his fortune in what industry?",
+        "A": "automobile ",
+        "B": "oil",
+        "C": "steel",
+        "D": "railroad",
+        "answer": "B"
+    },
+    {
+        "question": "Modern computer microchips are primarily composed of what element?",
+        "A": "Sodium",
+        "B": "Silicon",
+        "C": "Aluminum",
+        "D": "Silver",
+        "answer": "B"
+    },
+    {
+        "question": "Mohair is made from the fleece of what animal?",
+        "A": "camel",
+        "B": "llama",
+        "C": "goat",
+        "D": "mole",
+        "answer": "C"
+    },
+    {
+        "question": "'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?",
+        "A": "'Citizen Kane'",
+        "B": "'The African Queen'",
+        "C": "'The Deer Hunter'",
+        "D": "'Adam's Rib'",
+        "answer": "B"
+    },
+    {
+        "question": "On a set of jumper cables, what color designates the negative connector?",
+        "A": "black",
+        "B": "red",
+        "C": "orange",
+        "D": "blue",
+        "answer": "A"
+    },
+    {
+        "question": "On average, what length of time passes between high tides?",
+        "A": "3 hours, 25 minutes",
+        "B": "6 hours, 25 minutes",
+        "C": "12 hours, 25 minutes",
+        "D": "24 hours, 25 minutes",
+        "answer": "C"
+    },
+    {
+        "question": "On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?",
+        "A": "Franky",
+        "B": "Ponch",
+        "C": "Chipper",
+        "D": "Hot Dog",
+        "answer": "B"
+    },
+    {
+        "question": "On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?",
+        "A": "Furry Monster",
+        "B": "Pizza Man",
+        "C": "Snookums",
+        "D": "Baby Cakes",
+        "answer": "B"
+    },
+    {
+        "question": "On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?",
+        "A": "ophthalmologist",
+        "B": "cardiologist",
+        "C": "neurologist",
+        "D": "proctologist",
+        "answer": "D"
+    },
+    {
+        "question": "On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
+        "A": "Eros",
+        "B": "Cupid",
+        "C": "Aphrodite",
+        "D": "Venus",
+        "answer": "A"
+    },
+    {
+        "question": "On what continent can you find tigers in the wild?",
+        "A": "Africa",
+        "B": "Asia",
+        "C": "Europe",
+        "D": "South America",
+        "answer": "B"
+    },
+    {
+        "question": "On what body part should you wear a babushka?",
+        "A": "head",
+        "B": "hands",
+        "C": "foot",
+        "D": "legs",
+        "answer": "A"
+    },
+    {
+        "question": "On which part of a car would you find the 'caliper'?",
+        "A": "battery",
+        "B": "engine",
+        "C": "radiator",
+        "D": "brakes",
+        "answer": "D"
+    },
+    {
+        "question": "Paper will burn at approximately what temperature, in Fahrenheit?",
+        "A": "98.6 degrees",
+        "B": "212.5 degrees",
+        "C": "398.5 degrees",
+        "D": "451 degrees",
+        "answer": "D"
+    },
+    {
+        "question": "People are supposed to drive on the left-hand side of the road in which country?",
+        "A": "France",
+        "B": "Italy",
+        "C": "England",
+        "D": "Germany",
+        "answer": "C"
+    },
+    {
+        "question": "Phoebe, Dione and Helene are moons of what planet?",
+        "A": "Jupiter",
+        "B": "Saturn",
+        "C": "Neptune",
+        "D": "Pluto",
+        "answer": "B"
+    },
+    {
+        "question": "Pop icon Tiny Tim was famous for playing what musical instrument?",
+        "A": "ukulele",
+        "B": "kazoo",
+        "C": "accordion",
+        "D": "fiddle",
+        "answer": "A"
+    },
+    {
+        "question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
+        "A": "carrots",
+        "B": "chicken",
+        "C": "tofu",
+        "D": "rice",
+        "answer": "B"
+    },
+    {
+        "question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
+        "A": "Paul McCartney",
+        "B": "John Lennon",
+        "C": "George Harrison",
+        "D": "Ringo Starr",
+        "answer": "A"
+    },
+    {
+        "question": "The American patriot Paul Revere was named for his father, whose original name was what?",
+        "A": "John Paul Revere",
+        "B": "Paul Silver",
+        "C": "Apollos Rivoire",
+        "D": "Paolo Reverini",
+        "answer": "C"
+    },
+    {
+        "question": "The Original Apple iMac computer was available in all of the following colors except which?",
+        "A": "Tangerine",
+        "B": "Strawberry",
+        "C": "Kiwi",
+        "D": "Grape",
+        "answer": "C"
+    },
+    {
+        "question": "The 'Arkansas toothpick' is better known by what name?",
+        "A": "Scottie Pippen",
+        "B": "spare rib",
+        "C": "pinkie finger",
+        "D": "Bowie knife",
+        "answer": "D"
+    },
+    {
+        "question": "The British dish 'bangers and mash' is made up of sausage and what?",
+        "A": "eggs",
+        "B": "bacon",
+        "C": "liver",
+        "D": "potatoes",
+        "answer": "D"
+    }
+]
